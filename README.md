@@ -1,1 +1,2 @@
 # Library_Management_System
+Library Management System is a full fledged system in which both user and admin login is provided. User can view the books, can issue the book or can return the book. A database is maintained for the user. In this project frontend is provided by HTML,CSS and we use Javascript for validation. PHP is used for all the backend related services and SQL is used to maintain the database of the user.
