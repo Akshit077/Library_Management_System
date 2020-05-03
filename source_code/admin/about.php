@@ -39,7 +39,7 @@ require '../connection/connection.php';
             <p style="font-size: 25px">Project: Library Management System</p>
             <div style="position: absolute; left:10px;">
             <p>
-                -Developed By:Prakash Tiwari<br>
+                -Developed By:Akshit Chauhan<br>
                 This project is developed for college Major project. <br>Our aim to design this project is to maintain books of library.<br>
                 Data Based Used: MySQL<br>
                 Server Used: Apache<br>
